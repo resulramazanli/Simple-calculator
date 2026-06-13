@@ -4,11 +4,11 @@ A command-line calculator that evaluates mathematical expressions with full supp
 
 ## Features
 
-- ✅ Supports basic operations: `+`, `-`, `*`, `/`, `%`, `**` (power)
-- ✅ Parentheses support for complex expressions
-- ✅ Calculation history tracking
-- ✅ Clear and error handling
-- ✅ Simple and intuitive interface
+- Supports basic operations: `+`, `-`, `*`, `/`, `%`, `**` (power)
+- Parentheses support for complex expressions
+- Calculation history tracking
+- Clear and error handling
+- Simple and intuitive interface
 
 ## Installation
 
@@ -45,7 +45,3 @@ python calculator.py
 
 - Python 3.6+
 - No external dependencies
-
-## Author
-
-First-year Computer Engineering Student
